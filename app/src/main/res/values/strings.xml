@@ -9,23 +9,23 @@
         <item>Adjective</item>
         <item>Noun</item>
         <item>Plural Noun</item>
-        <item>Person in the Room (Female)</item>
-        <item>Adjective</item>
-        <item>Article of clothing</item>
-        <item>Noun</item>
-        <item>A City</item>
-        <item>Plural Noun</item>
-        <item>Adjective</item>
-        <item>Part of the Body</item>
-        <item>Letter of the Alphabet</item>
-        <item>Celebrity</item>
-        <item>Plural Noun</item>
-        <item>Adjective</item>
-        <item>A Place</item>
-        <item>Part of the Body</item>
-        <item>Adjective</item>
-        <item>Verb</item>
-        <item>Plural Noun</item>
-        <item>Number</item>
+        <!--<item>Person in the Room (Female)</item>-->
+        <!--<item>Adjective</item>-->
+        <!--<item>Article of clothing</item>-->
+        <!--<item>Noun</item>-->
+        <!--<item>A City</item>-->
+        <!--<item>Plural Noun</item>-->
+        <!--<item>Adjective</item>-->
+        <!--<item>Part of the Body</item>-->
+        <!--<item>Letter of the Alphabet</item>-->
+        <!--<item>Celebrity</item>-->
+        <!--<item>Plural Noun</item>-->
+        <!--<item>Adjective</item>-->
+        <!--<item>A Place</item>-->
+        <!--<item>Part of the Body</item>-->
+        <!--<item>Adjective</item>-->
+        <!--<item>Verb</item>-->
+        <!--<item>Plural Noun</item>-->
+        <!--<item>Number</item>-->
     </string-array>
 </resources>
