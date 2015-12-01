@@ -1,3 +1,31 @@
 <resources>
+
+    <string name="next_button">Next</string>
+    <string name="welcome">Welcome to Mad Libs!</string>
+    <string name="please_enter">Please enter the following:</string>
     <string name="app_name">Mad Libs</string>
+
+    <string-array name="word_types">
+        <item>Adjective</item>
+        <item>Noun</item>
+        <item>Plural Noun</item>
+        <item>Person in the Room (Female)</item>
+        <item>Adjective</item>
+        <item>Article of clothing</item>
+        <item>Noun</item>
+        <item>A City</item>
+        <item>Plural Noun</item>
+        <item>Adjective</item>
+        <item>Part of the Body</item>
+        <item>Letter of the Alphabet</item>
+        <item>Celebrity</item>
+        <item>Plural Noun</item>
+        <item>Adjective</item>
+        <item>A Place</item>
+        <item>Part of the Body</item>
+        <item>Adjective</item>
+        <item>Verb</item>
+        <item>Plural Noun</item>
+        <item>Number</item>
+    </string-array>
 </resources>
